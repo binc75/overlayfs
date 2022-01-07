@@ -15,5 +15,7 @@ You can now play around editing and adding files and directories to understandin
 * **work** is a directory used by overlayfs 
 * **merged** is the mount point
 
+## Cleanup
+`sudo umount ./merged`
 
 
